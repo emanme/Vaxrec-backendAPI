@@ -1,4 +1,4 @@
 {
-  "assetsBaseUrl": "http://192.168.254.127:9000/assets/",
+  "assetsBaseUrl": "http://vaxrecmobileapi-env.eba-tddnrum3.us-east-1.elasticbeanstalk.com/assets/",
   "port": 9000
 }
